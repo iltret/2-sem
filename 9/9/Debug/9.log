@@ -1,0 +1,3 @@
+﻿  9.cpp
+D:\с\repos\9\9\9.cpp(58,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  9.vcxproj -> D:\с\repos\9\Debug\9.exe
